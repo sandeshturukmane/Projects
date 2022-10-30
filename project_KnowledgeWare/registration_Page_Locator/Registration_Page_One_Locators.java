@@ -26,7 +26,7 @@ public class Registration_Page_One_Locators {
 	/*
 	 * Purpose :- This is a password webelement to perform action on it.
 	 * Input parameter :- WebElement
-	 * Return Type :- None
+	 * Return Type :- WebElement
 	 */
 	@FindBy(name = "password")
 	private WebElement password;
