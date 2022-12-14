@@ -15,7 +15,7 @@ public class Registration_Page_Three_Locators {
 	/*
 	 * Purpose :- This is a address webelement to perform action on it.
 	 * Input parameter :- WebElement
-	 * Return Type :- None
+	 * Return Type :- WebElement
 	 */
 
 	@FindBy(name = "Address")
