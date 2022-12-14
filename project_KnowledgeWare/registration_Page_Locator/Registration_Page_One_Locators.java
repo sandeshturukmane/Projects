@@ -15,7 +15,7 @@ public class Registration_Page_One_Locators {
 	/*
 	 * Purpose :- This is a username webelement to perform action on it.
 	 * Input parameter :- WebElement
-	 * Return Type :- WebElement
+	 * Return Type :- None
 	 */
 	@FindBy(name = "name")
 	private WebElement userName;
